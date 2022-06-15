@@ -1,0 +1,30 @@
+{
+  "name": "fast-fashion-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "fast-fashion-website",
+  "author": "jzhzhang66",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@ant-design/icons": "4.0.0",
+    "antd": "^4.19.3",
+    "babel-plugin-styled-components": "^2.0.6",
+    "bootstrap": "5.1.3",
+    "gatsby": "^4.10.3",
+    "gatsby-plugin-antd": "^2.2.0",
+    "gatsby-plugin-styled-components": "^5.10.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^2.2.2",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.3.5"
+  }
+}
